@@ -1,4 +1,4 @@
-package com.ppgm.anydon
+package com.ppgm.anydon.ui.component
 
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items

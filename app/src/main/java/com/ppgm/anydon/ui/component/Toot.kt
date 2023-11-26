@@ -1,4 +1,4 @@
-package com.ppgm.anydon
+package com.ppgm.anydon.ui.component
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -14,6 +14,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.ppgm.anydon.R
 import com.ppgm.anydon.ui.theme.AnydonTheme
 import java.time.LocalDateTime
 import java.time.temporal.ChronoUnit
