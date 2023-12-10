@@ -18,9 +18,7 @@ class TootList {
                 )
             }
         }
-    }
-
-    @Preview
+    }@Preview
     @Composable
     fun Preview(){
         SocialMediaFeed(posts = listOf(
